@@ -13,3 +13,6 @@
 - Install nodemon dependency, it helps to restart the server every time user change something in the source code
     ```sh
     npm -i nodemon
+- To run the application on browser go to, 
+    ```sh
+    http://localhost:8000/
