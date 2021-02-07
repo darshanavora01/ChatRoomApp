@@ -2,7 +2,7 @@
 
 ### About ###
 -----------------------------
-This application provides group chat using ***socket.io***. you can login to the application and select/creat the chat group you want to join.
+This application provides group chat using ***socket.io***. you can login to the application and select/create the chat group you want to join.
 
 ### Technology Stack ### 
 -----------------------------
